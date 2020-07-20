@@ -1,0 +1,62 @@
+.navbar-brand {
+    font-family: Helvetica;
+    font-weight: bold;
+
+    color: #6f00ff !important;
+}
+
+#send-button {
+    position: relative;
+    left: 165px;
+
+    margin-top: 0px;
+
+}
+
+#card-box {
+    width: 500px;
+    height: 500px;
+
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+#key-display {
+    margin-top: 100px;
+}
+
+#Private-key {
+
+    font-weight: lighter;
+    color: #6f00ff;
+    
+}
+
+#Public-key {
+
+    font-weight: lighter;
+    color: #6f00ff;
+    
+}
+
+
+#enter-username {
+    font-size: 14px;
+}
+
+#input-PrivateKey {
+    font-size: 14px;
+}
+
+#input-PublicKey {
+    font-size: 14px;
+}
+
+#row1 {
+    margin-top: 20px;
+}
+
+#head-text {
+    color: #6f00ff;
+    font-weight: bolder;
+}

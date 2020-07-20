@@ -1,0 +1,38 @@
+#card-box {
+    width: 900px;
+    height: 400px;
+
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.navbar-brand {
+    font-family: Helvetica;
+    font-weight: bold;
+
+    color: #6f00ff !important;
+}
+
+.blockchain {
+    display: flex;
+    justify-content: space-around;
+
+    position: relative;
+    top: 30px;
+
+    overflow: scroll;
+}
+
+#left-icon {
+    position: relative;
+    top: 70px;
+}
+
+#right-icon {
+    position: relative;
+    top: 70px;
+}
+
+.card-header {
+    color: #6f00ff !important;
+}

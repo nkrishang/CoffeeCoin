@@ -1,0 +1,134 @@
+.navbar-brand {
+    font-family: Helvetica;
+    font-weight: bold;
+
+    color: #6f00ff !important;
+}
+
+#card-box {
+    width: 500px;
+    height: 520px;
+
+    margin: 0 auto;
+    
+    position: relative;
+    bottom: 120px;
+}
+
+#sign-input {
+    margin-top: 100px;
+}
+
+#amount {
+    font-size: 14px;
+}
+
+#to {
+    font-size: 14px;
+}
+
+#from {
+    font-size: 14px;
+}
+
+#sign_label {
+    font-weight: bold;
+    color: #6f00ff;
+}
+
+#send-button {
+    position: relative;
+    left: 198px;
+
+    margin-top: 20px;
+}
+
+#success {
+    margin: 0 auto;
+    margin-top: 30px;
+
+    width: 500px;
+    text-align: center;
+
+    visibility: hidden;
+}
+
+#failure {
+    margin: 0 auto;
+
+    position: relative;
+    bottom: 50px;
+
+    width: 500px;
+    text-align: center;
+
+    visibility: hidden;
+}
+
+#input-key {
+    display: inline-flex;
+    justify-content: space-evenly;
+
+    width: 700px;
+}
+
+#wallet {
+    width: 300px;
+
+    position: relative;
+    top: 200px;
+    left: 70px;
+}
+
+#balance-button {
+    position: relative;
+    left: 70px;
+}
+
+#input-PrivateKey {
+    position: relative;
+    left: 30px;
+}
+
+#input-from {
+    position: relative;
+    left: 30px;
+}
+
+#input-to {
+    position: relative;
+    left: 30px;
+}
+
+#input-amount {
+    position: relative;
+    left: 30px;
+}
+
+#input-sign {
+    position: relative;
+    left: 30px;
+}
+
+#wallet-header {
+    text-align: center;
+}
+
+#balance-amount {
+    position: relative;
+    left: 30px;
+
+    margin-bottom: 20px;
+
+    
+    color: #6f00ff;
+}
+#form-container {
+    width: 400px;
+}
+
+#main-content {
+    display: inline-flex;
+
+    position: relative;
+}
